@@ -1,5 +1,7 @@
 # monty-hall-problem
 
+![](monty-hall-problem.gif)
+
 ## Project setup
 ```
 npm install
